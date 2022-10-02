@@ -3,3 +3,4 @@ function testing(something) {
     return;
     }
 }
+console.log("Hello GitHub");
